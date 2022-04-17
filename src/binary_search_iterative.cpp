@@ -1,6 +1,6 @@
 #include "assignment/binary_search_iterative.hpp"
 
-namespaceassignment {
+namespace assignment {
 
   std::optional<int> BinarySearchIterative::Search(const std::vector<int>& data, int search_element) const {
 
